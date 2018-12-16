@@ -10,7 +10,7 @@
 4. Future, like/comment on other Users' pictures.
 
 ### Tech Stack
-1. Backend - Golang, GorillaToolkit and Gin 
+1. Backend - Golang and Gin (GorillaToolKit if needed) 
 2. DB - Postgres
 3. Frontend - Angular 2
 
